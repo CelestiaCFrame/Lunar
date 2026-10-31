@@ -5,7 +5,7 @@
 
 **A Python-powered programming language inspired by Lua, designed to offer more built-in features and functionality.**
 
-Lunar is a programming language created using Python, with inspired by Lua. I wanted to keep the simplicity and flexibility that make Lua enjoyable to use while taking things a little further by adding more built-in functions and features.
+I wanted to keep the simplicity and flexibility that make Lua enjoyable to use while taking things a little further by adding more built-in functions and features.
 
 The main idea is to make programming more convenient by giving developers more tools right out of the box. Instead of having to rely on external libraries or write additional code for common operations, Lunar aims to provide more functionality directly within the language.
 
