@@ -29,14 +29,6 @@ Lunar is still a developing project, so its installation process and usage may c
 
 - Python 3.x
 
-### Running Lunar
-
-If you have the Lunar interpreter, you can run it using:
-
-```bash
-python lunar.py
-```
-
 ## Example 💡
 
 Here's a simple example of what Lunar code could look like:
